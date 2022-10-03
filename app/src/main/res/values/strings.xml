@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Aston intensiv 5</string>
+    <string name="fragment_info_details">Details</string>
+    <string name="button_label_save">Save</string>
+    <string name="contacts_empty">Empty list</string>
+</resources>
